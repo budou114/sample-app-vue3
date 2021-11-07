@@ -74,3 +74,4 @@ const router = createRouter({
 });
 
 export default router;
+export const menuRoutes = routes.slice(1, routes.length);
